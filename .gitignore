@@ -1,0 +1,6 @@
+# Local skill-authoring tools and their lockfile are development-only.
+.agents/
+skills-lock.json
+
+# Optional archives are not the source format for this repository.
+*.skill
