@@ -11,7 +11,7 @@ Skills in this repository follow the Agent Skills layout and can be installed fr
 Install the repository with:
 
 ```bash
-npx skills add <github-owner>/create-custom-skills
+npx skills add https://github.com/limansha/create-custom-skills
 ```
 
 The CLI discovers `SKILL.md` files under `skills/` and installs them for supported agents, including OpenCode.
